@@ -1,4 +1,4 @@
-🏥 Insurance Premium Prediction Project
+🏥 Health Insurance Cost Predictor
 
 This project analyzes a medical insurance dataset to understand the factors influencing insurance premiums (charges). It includes Exploratory Data Analysis (EDA), Feature Engineering, Feature Selection, and prepares the dataset for Machine Learning modeling.
 
